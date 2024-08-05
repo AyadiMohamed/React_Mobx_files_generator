@@ -1,0 +1,2 @@
+# mobx_file_generator
+mobx_file_generator
